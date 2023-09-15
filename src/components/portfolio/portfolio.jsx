@@ -77,7 +77,7 @@ const portfolio = () => {
           <h3>Progress Circular Bar</h3>
          <div className='portfolio_item-cta'>
           <a href="https://github.com/jaykush42/progress-circular-bar" className='btn' target='_blank'>Github</a>
-          <a href="https://github.com/jaykush42/progress-circular-bar" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://jaykush42.github.io/progress-circular-bar/" className='btn btn-primary' target='_blank'>Live Demo</a>
         </div>
         </article>
       </div>
