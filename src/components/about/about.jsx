@@ -1,6 +1,6 @@
 import React from 'react'
 import "./about.css"
-import ME from '../../assets/me-about2.png'
+import ME from '../../assets/me-about23.png'
 import {FaAward} from 'react-icons/fa'
 import {RiFolderChartFill} from 'react-icons/ri'
 import {FaCode} from 'react-icons/fa6'

@@ -65,4 +65,10 @@
    .experience_container {
     gap: 1rem;
    }
+
+   .experience_content{
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
+}
 }
