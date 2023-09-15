@@ -21,8 +21,8 @@ const portfolio = () => {
           </div>
           <h3>My Portfolio</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://link.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/Portfolio" className='btn' target='_blank'>Github</a>
+          <a href="https://jaykush42.github.io/Portfolio/" className='btn btn-primary' target='_blank'>Live Demo</a>
         </div>
         </article>
 
@@ -76,8 +76,8 @@ const portfolio = () => {
           </div>
           <h3>Progress Circular Bar</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://link.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/progress-circular-bar" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/jaykush42/progress-circular-bar" className='btn btn-primary' target='_blank'>Live Demo</a>
         </div>
         </article>
       </div>
