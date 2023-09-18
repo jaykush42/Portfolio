@@ -21,8 +21,8 @@ const portfolio = () => {
           </div>
           <h3>My Portfolio</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com/jaykush42/Portfolio" className='btn' target='_blank'>Github</a>
-          <a href="https://jaykush42.github.io/Portfolio/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/Portfolio" className='btn' target='_blank' rel="noreferrer" >Github</a>
+          <a href="https://jaykush42.github.io/Portfolio/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
         </div>
         </article>
 
@@ -32,8 +32,8 @@ const portfolio = () => {
           </div>
           <h3>Daily News Website</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com/jaykush42/News-App" className='btn' target='_blank'>Github</a>
-          <a href="https://jaykush42.github.io/News-App/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/News-App" className='btn' target='_blank' rel="noreferrer" >Github</a>
+          <a href="https://jaykush42.github.io/News-App/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
         </div>
         </article>
 
@@ -43,8 +43,8 @@ const portfolio = () => {
           </div>
           <h3>To Do List</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com/jaykush42/To-Do-List" className='btn' target='_blank'>Github</a>
-          <a href="https://jaykush42.github.io/To-Do-List/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/To-Do-List" className='btn' target='_blank' rel="noreferrer" >Github</a>
+          <a href="https://jaykush42.github.io/To-Do-List/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
         </div>
         </article>
 
@@ -54,8 +54,8 @@ const portfolio = () => {
           </div>
           <h3>Real Time Driver Drowsiness Detection System</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com/jaykush42/Real-Time-Driver-Drowsiness-Detection-System" className='btn' target='_blank'>Github</a>
-          <a href="https://github.com/jaykush42/Real-Time-Driver-Drowsiness-Detection-System" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/Real-Time-Driver-Drowsiness-Detection-System" className='btn' target='_blank' rel="noreferrer" >Github</a>
+          <a href="https://github.com/jaykush42/Real-Time-Driver-Drowsiness-Detection-System" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
         </div>
         </article>
 
@@ -65,8 +65,8 @@ const portfolio = () => {
           </div>
           <h3>Digital Clock</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com/jaykush42/Digital-Clock" className='btn' target='_blank'>Github</a>
-          <a href="https://jaykush42.github.io/Digital-Clock/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/Digital-Clock" className='btn' target='_blank' rel="noreferrer" >Github</a>
+          <a href="https://jaykush42.github.io/Digital-Clock/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
         </div>
         </article>
 
@@ -76,8 +76,8 @@ const portfolio = () => {
           </div>
           <h3>Progress Circular Bar</h3>
          <div className='portfolio_item-cta'>
-          <a href="https://github.com/jaykush42/progress-circular-bar" className='btn' target='_blank'>Github</a>
-          <a href="https://jaykush42.github.io/progress-circular-bar/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/jaykush42/progress-circular-bar" className='btn' target='_blank' rel="noreferrer" >Github</a>
+          <a href="https://jaykush42.github.io/progress-circular-bar/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
         </div>
         </article>
       </div>
