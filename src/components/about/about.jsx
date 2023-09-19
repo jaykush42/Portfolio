@@ -39,7 +39,7 @@ const about = () => {
         </div>
         <p>
         I am Jay Prakash Kushwaha, final year Computer Science student of IIIT Bhopal. I am Web Developer and Competitive Coder. I have done 500+ questions on different coding platforms like GeeksForGeeks and Leetcode. I have good knowledge of Data Structures and Algorithms.
-        <br></br> I have made fronted web projects like Portfolio and News website using React and To do Lis using HTML, CSS and JavaScript. 
+        <br></br> I have made fronted web projects like Portfolio and News website using React and To do List using HTML, CSS and JavaScript. 
         My goal is to make the web more beautiful and user-friendly through creative web design. I'm excited to take on new works.
         </p>
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
