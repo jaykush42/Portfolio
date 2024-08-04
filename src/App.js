@@ -1,4 +1,4 @@
-import './App.css';
+
 import Header from './components/header/header'
 import Nav from './components/nav/Nav'
 import About from './components/about/about'
@@ -9,6 +9,7 @@ import Footer from './components/footer/footer'
 function App() {
   return (
   <>
+  
     <Header />
     <Nav />
     <About />

@@ -5,8 +5,7 @@ import IMG2 from '../../assets/news.png'
 import IMG3 from '../../assets/todo.png'
 import IMG4 from '../../assets/drowsiness.png'
 import IMG5 from '../../assets/digitalclock.png'
-import IMG6 from '../../assets/progress.png'
-
+import IMG6 from '../../assets/carRentalApp.png'
 
 const portfolio = () => {
   return (
@@ -15,6 +14,18 @@ const portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container portfolio_container">
+
+      <article className='portfolio_item'>
+          <div className="portfolio_item-image">
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>Car Rental App</h3>
+         <div className='portfolio_item-cta'>
+          <a href="https://github.com/jaykush42/CarRentalApp.git" className='btn' target='_blank' rel="noreferrer" >Github</a>
+          <a href="https://carrentalapp-fronted.onrender.com/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
+        </div>
+        </article>
+
         <article className='portfolio_item'>
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
@@ -67,17 +78,6 @@ const portfolio = () => {
          <div className='portfolio_item-cta'>
           <a href="https://github.com/jaykush42/Digital-Clock" className='btn' target='_blank' rel="noreferrer" >Github</a>
           <a href="https://jaykush42.github.io/Digital-Clock/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
-        </div>
-        </article>
-
-        <article className='portfolio_item'>
-          <div className="portfolio_item-image">
-            <img src={IMG6} alt="" />
-          </div>
-          <h3>Progress Circular Bar</h3>
-         <div className='portfolio_item-cta'>
-          <a href="https://github.com/jaykush42/progress-circular-bar" className='btn' target='_blank' rel="noreferrer" >Github</a>
-          <a href="https://jaykush42.github.io/progress-circular-bar/" className='btn btn-primary' target='_blank' rel="noreferrer" >Live Demo</a>
         </div>
         </article>
       </div>
