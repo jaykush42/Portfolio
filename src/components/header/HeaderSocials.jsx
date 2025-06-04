@@ -9,9 +9,9 @@ import {SiLeetcode} from 'react-icons/si'
 const HeaderSocials = () => {
   return (
     <div className='header_socials'>
-        <a href="https://www.linkedin.com/in/jay-kushwaha-2a4431201/" target='_blank' rel="noreferrer" ><BsLinkedin /></a>
+        <a href="https://www.linkedin.com/in/jayprakashkushwaha/" target='_blank' rel="noreferrer" ><BsLinkedin /></a>
         <a href="https://auth.geeksforgeeks.org/user/jaykush9161" target='_blank' rel="noreferrer" ><SiGeeksforgeeks /></a>
-        <a href="https://leetcode.com/jaykush9161/" target='_blank' rel="noreferrer" ><SiLeetcode /></a>
+        <a href="https://leetcode.com/jaykush/" target='_blank' rel="noreferrer" ><SiLeetcode /></a>
         <a href="https://github.com/jaykush42" target='_blank' rel="noreferrer" ><FaGithub/></a>
     </div>
   )
